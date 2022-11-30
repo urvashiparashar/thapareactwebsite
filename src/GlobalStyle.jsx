@@ -9,7 +9,7 @@ export const GlobalStyle=createGlobalStyle`
     padding : 0;
     box-sizing : border-box;
     font-family: 'Heebo', sans-serif;
-font-family: 'Roboto Condensed', sans-serif;
+// font-family: 'Roboto Condensed', sans-serif;
 
 };
 html
